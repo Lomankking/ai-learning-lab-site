@@ -1,0 +1,16 @@
+{
+  "name": "AI Learning Lab · 可视化智能教学平台",
+  "short_name": "AI Learning Lab",
+  "description": "通过逐步课程和可视化实验学习人工智能。",
+  "lang": "zh-CN",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8fc",
+  "theme_color": "#1c2149",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
