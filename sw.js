@@ -1,7 +1,7 @@
-const CACHE = 'ai-learning-lab-v1'
+const CACHE = 'ai-learning-lab-v2'
 const ASSETS = [
   './', './index.html', './app.js', './curriculum.js', './progress.js',
-  './tokenizer.js', './pwa.js', './style.css', './manifest.webmanifest',
+  './tokenizer.js', './labs.js', './config.js', './pwa.js', './style.css', './manifest.webmanifest',
   './icon-192.png', './icon-512.png',
 ]
 
